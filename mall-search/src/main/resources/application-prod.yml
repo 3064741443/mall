@@ -21,3 +21,5 @@ spring:
 
 logging:
   path: /var/logs #配置日志生成路径
+server:
+  port: 8081
